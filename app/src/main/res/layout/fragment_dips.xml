@@ -125,7 +125,7 @@
                 android:layout_width="match_parent"
                 android:layout_marginTop="12dp"
                 android:textColor="@android:color/black"
-                android:text="@string/text_pushup"
+                android:text="@string/text_dips"
                 android:layout_height="wrap_content">
             </TextView>
 
@@ -219,5 +219,3 @@
         </LinearLayout>
     </RelativeLayout>
 </RelativeLayout>
-
-</FrameLayout>
